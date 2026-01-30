@@ -10,7 +10,7 @@ npm init @eslint/config
 
 # This will ask you questions and create the config file
     </h1>
-    <Button>
-      
+    <Button >
+      Click me
     </Button>
 </template>
